@@ -595,6 +595,10 @@
 - { name: sprout, wwwpart: edera, setname: $0-bootloader }
 - { name: sprout, addflag: unclassified }
 
+- { name: spruce, wwwpart: geofffranks, setname: $0-yaml-json-merge }
+- { name: spruce, wwwpart: shonubot, setname: $0-cache-cleaner }
+- { name: spruce, addflag: unclassified }
+
 - { name: spt, wwwpart: pickfire, setname: spt-timer }
 - { name: spt, addflag: unclassified }
 

@@ -351,6 +351,7 @@
 - { setname: spring,                   name: springrts }
 - { setname: springframework,          namepat: "spring-?framework[0-9]*" }
 - { setname: springframework,          name: [libspring-java,"java:spring"] }
+- { setname: spruce,                   name: spruce-shonubot } # split in 850
 - { setname: spsdeclib,                name: [libcapsimage, capsimage] } # alternate name
 - { setname: spyder,                   name: [python:spyder,spyder3] }
 - { setname: spytrap-adb,              name: rust:$0 }
