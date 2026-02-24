@@ -430,4 +430,6 @@
 - { name: gwenview,                    verpat: "[0-9]+\\.[0-9]*[13579]\\..*",              devel: true }
 - { name: gwhere,                      verpat: ".*patched.*",                              incorrect: true }
 - { name: gwyddion,                    verpat: "3\\..*",                                   devel: true } # https://gwyddion.net/gwyddion-3/faq.php#faq001
+- { name: gxlimg,                      ver: "0.0.20190802",                                sink: true } # 0.0.1 from 2025
+- { name: gxlimg,                                                    ruleset: endlessos,   untrusted: true } # accused of fake 0.0.20190802
 - { name: gyp,                                                                             noscheme: true }

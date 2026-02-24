@@ -153,6 +153,7 @@ rulesets = families + [
     'debjanitor',
     'deepin',
     'dports',
+    'endlessos',
     'entware',
     'epel',
     'frugalware',
