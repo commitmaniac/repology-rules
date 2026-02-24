@@ -172,6 +172,7 @@
 - { setname: phpmyadmin,               name: phpmyadmin5 }
 - { setname: phppgadmin,               name: "php:pgadmin" }
 - { setname: phpspy,                   name: php:$0 }
+- { setname: phrog,                    name: [greetd-phrog, rust:$0] }
 - { setname: physfs,                   name: libphysfs }
 - { setname: picard,                   name: [musicbrainzpicard, musicbrainz-picard, "python:picard"] }
 - { setname: picard,                   name: java-picard }
