@@ -92,6 +92,10 @@
 - { name: opencascade, wwwpart: [opencascade.com, opencascade.org, occt], setname: opencascade-occt }
 - { name: opencascade, addflag: unclassified }
 
+- { name: openclaw, wwwpart: [github.com/openclaw/openclaw, openclaw.ai], setname: $0-ai-assistant }
+- { name: openclaw, wwwpart: pjasicek, setname: $0-game }
+- { name: openclaw, addflag: unclassified }
+
 - { name: opendrop, wwwpart: [owlink.org,seemoo-lab], setname: opendrop-airdrop }
 - { name: opendrop, wwwpart: jdber1, setname: opendrop-tensiometry }
 - { name: opendrop, addflag: unclassified }
