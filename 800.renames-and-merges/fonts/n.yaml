@@ -100,9 +100,11 @@
     - firacode-nerdfont
     - font-0xproto-nerd-font
     - font-3270-nerd-font
+    - font-adwaita-mono-nerd-font
     - font-agave-nerd-font
     - font-anonymice-nerd-font
     - font-arimo-nerd-font
+    - font-atkynson-mono-nerd-font
     - font-aurulent-sans-mono-nerd-font
     - font-bigblue-terminal-nerd-font
     - font-bitstream-vera-sans-mono-nerd-font
@@ -146,12 +148,15 @@
     - font-martian-mono-nerd-font
     - font-meslo-lg-nerd-font
     - font-monaspace-nerd-font
+    - font-monaspice-nerd-font
     - font-monofur-nerd-font
     - font-monoid-nerd-font
     - font-mononoki-nerd-font
     - font-nerd-dejavusansmono
+    - font-nerd-symbols
     - font-noto-nerd-font
     - font-open-dyslexic-nerd-font
+    - font-opendyslexic-nerd-font
     - font-overpass-nerd-font
     - font-patcher
     - font-profont-nerd-font
@@ -171,13 +176,20 @@
     - font-zed-mono-nerd-font
     - fonts-nerd
     - fonts-nerd-fonts
+    - fonts-nerd-iosevka
+    - fonts-nerd-iosevkaterm
+    - fonts-nerd-iosevkatermslab
     - fonts-ttf-3270nerdfont
     - fonts-ttf-fira-code-nerd
     - fonts-ttf-nerd
+    - fonts-ttf-nerd-iosevka
+    - fonts-ttf-nerd-jetbrains-mono
     - fonts-ttf-symbols-nerd
+    - hack-nerd-fonts
     - hack-nf
     - hack-nf-mono
     - hack-nf-propo
+    - intelonemono-nerd-fonts
     - iosevka-nerdfont
     - jetbrains-mono-nerd
     - jetbrainsmono-nerdfont
@@ -185,10 +197,15 @@
     - nerd-fonts
     - nerd-fonts-0xproto
     - nerd-fonts-3270
+    - nerd-fonts-adwaita-mono
+    - nerd-fonts-adwaitamono
     - nerd-fonts-agave
     - nerd-fonts-anonymice
+    - nerd-fonts-anonymicepro
     - nerd-fonts-anonymouspro
     - nerd-fonts-arimo
+    - nerd-fonts-atkynson-mono
+    - nerd-fonts-atkynsonmono
     - nerd-fonts-aurulent-sans-mono
     - nerd-fonts-aurulentsansmono
     - nerd-fonts-bigblue-terminal
@@ -196,11 +213,15 @@
     - nerd-fonts-bitstream-vera-mono
     - nerd-fonts-bitstream-vera-sans-mono
     - nerd-fonts-bitstreamverasansmono
+    - nerd-fonts-bitstromwera
     - nerd-fonts-blex-mono
+    - nerd-fonts-blexmono
     - nerd-fonts-cascadiacode
     - nerd-fonts-cascadiamono
     - nerd-fonts-caskaydia-cove
     - nerd-fonts-caskaydia-mono
+    - nerd-fonts-caskaydiacove
+    - nerd-fonts-caskaydiamono
     - nerd-fonts-code-new-roman
     - nerd-fonts-codenewroman
     - nerd-fonts-comic-shanns-mono
@@ -217,6 +238,7 @@
     - nerd-fonts-dejavu-sans-mono
     - nerd-fonts-dejavusansmono
     - nerd-fonts-departure-mono
+    - nerd-fonts-departuremono
     - nerd-fonts-droid-sans-mono
     - nerd-fonts-droidsansmono
     - nerd-fonts-envy-code-r
@@ -234,6 +256,7 @@
     - nerd-fonts-go-mono
     - nerd-fonts-gohu
     - nerd-fonts-gohufont
+    - nerd-fonts-gomono
     - nerd-fonts-hack
     - nerd-fonts-hasklig
     - nerd-fonts-hasklug
@@ -244,6 +267,7 @@
     - nerd-fonts-ia-writer
     - nerd-fonts-ibmplexmono
     - nerd-fonts-im-writing
+    - nerd-fonts-imwriting
     - nerd-fonts-inconsolata
     - nerd-fonts-inconsolata-go
     - nerd-fonts-inconsolata-lgc
@@ -251,6 +275,7 @@
     - nerd-fonts-inconsolatalgc
     - nerd-fonts-intelonemono
     - nerd-fonts-intone-mono
+    - nerd-fonts-intonemono
     - nerd-fonts-iosevka
     - nerd-fonts-iosevka-term
     - nerd-fonts-iosevka-term-slab
@@ -262,11 +287,14 @@
     - nerd-fonts-liberation
     - nerd-fonts-liberationmono
     - nerd-fonts-lilex
+    - nerd-fonts-literation
+    - nerd-fonts-m+
     - nerd-fonts-martian-mono
     - nerd-fonts-martianmono
     - nerd-fonts-meslo
     - nerd-fonts-meslo-lg
     - nerd-fonts-monaspace
+    - nerd-fonts-monaspice
     - nerd-fonts-monofur
     - nerd-fonts-monoid
     - nerd-fonts-mononoki
@@ -282,13 +310,16 @@
     - nerd-fonts-profont
     - nerd-fonts-proggy-clean-tt
     - nerd-fonts-proggyclean
+    - nerd-fonts-recmono
     - nerd-fonts-recursive
     - nerd-fonts-recursive-mono
     - nerd-fonts-roboto-mono
     - nerd-fonts-robotomono
     - nerd-fonts-sauce-code-pro
+    - nerd-fonts-saucecodepro
     - nerd-fonts-sharetechmono
     - nerd-fonts-shure-tech-mono
+    - nerd-fonts-shuretechmono
     - nerd-fonts-source-code-pro
     - nerd-fonts-sourcecodepro
     - nerd-fonts-space-mono
@@ -296,6 +327,7 @@
     - nerd-fonts-stable
     - nerd-fonts-symbols
     - nerd-fonts-symbols-only
+    - nerd-fonts-terminess
     - nerd-fonts-terminess-ttf
     - nerd-fonts-terminus
     - nerd-fonts-tinos
@@ -309,10 +341,23 @@
     - nerd-fonts-victormono
     - nerd-fonts-zed-mono
     - nerd-fonts-zedmono
+    - nerd-patcher
     - nerdfont-hack
     - nerdfonts
+    - nerdfontsymbols
     - noto-nerd-fonts
+    - otf-aurulent-nerd
+    - otf-codenewroman-nerd
+    - otf-comicshanns-nerd
+    - otf-commit-mono-nerd
+    - otf-droid-nerd
+    - otf-firamono-nerd
+    - otf-geist-mono-nerd
+    - otf-hasklig-nerd
+    - otf-hermit-nerd
     - otf-monaspace-nerd
+    - otf-opendyslexic-nerd
+    - otf-overpass-nerd
     - profont-nerd-fonts
     - robotomono-nerdfont
     - symbols-nerd
@@ -320,13 +365,66 @@
     - symbols-only-nerd-fonts
     - symbolsonly-nerd-fonts
     - terminus-nerd-fonts
+    - ttf-0xproto-nerd
+    - ttf-3270-nerd
     - ttf-adwaita-mono-nerd
+    - ttf-agave-nerd
+    - ttf-anonymouspro-nerd
+    - ttf-arimo-nerd
+    - ttf-bigblueterminal-nerd
+    - ttf-bitstream-vera-mono-nerd
     - ttf-blex-nerd-font
+    - ttf-cascadia-code-nerd
+    - ttf-cascadia-mono-nerd
+    - ttf-cousine-nerd
+    - ttf-d2coding-nerd
+    - ttf-daddytime-mono-nerd
+    - ttf-dejavu-nerd
     - ttf-dina-remastered-nerd-font
+    - ttf-envycoder-nerd
+    - ttf-fantasque-nerd
+    - ttf-firacode-nerd
+    - ttf-go-nerd
+    - ttf-gohu-nerd
+    - ttf-hack-nerd
+    - ttf-heavydata-nerd
+    - ttf-iawriter-nerd
+    - ttf-ibmplex-mono-nerd
+    - ttf-inconsolata-go-nerd
+    - ttf-inconsolata-lgc-nerd
+    - ttf-inconsolata-nerd
+    - ttf-intone-nerd
+    - ttf-iosevkaterm-nerd
+    - ttf-iosevkatermslab-nerd
+    - ttf-jetbrains-mono-nerd
+    - ttf-lekton-nerd
+    - ttf-liberation-mono-nerd
+    - ttf-lilex-nerd
+    - ttf-martian-mono-nerd
+    - ttf-meslo-nerd
+    - ttf-monofur-nerd
+    - ttf-monoid-nerd
+    - ttf-mononoki-nerd
+    - ttf-mplus-nerd
     - ttf-nerd-fonts-hack-complete
     - ttf-nerd-fonts-hack-complete-git
+    - ttf-nerd-fonts-meta
     - ttf-nerd-fonts-symbols
+    - ttf-noto-nerd
+    - ttf-profont-nerd
+    - ttf-proggyclean-nerd
+    - ttf-recursive-nerd
+    - ttf-roboto-mono-nerd
+    - ttf-sharetech-mono-nerd
+    - ttf-sourcecodepro-nerd
+    - ttf-space-mono-nerd
+    - ttf-terminus-nerd
+    - ttf-tinos-nerd
+    - ttf-ubuntu-mono-nerd
+    - ttf-ubuntu-nerd
     - ttf-ubuntumono-nerd
+    - ttf-victor-mono-nerd
+    - ttf-zed-mono-nerd
     - ubuntu-nerd-fonts
     - ubuntumono-nerd-fonts
     - ubuntumono-nerdfont
