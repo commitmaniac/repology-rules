@@ -331,7 +331,7 @@
 - { setname: libticalcs2,              name: libticalcs }
 - { setname: libtifiles2,              name: libtifiles }
 - { setname: libtimezonemap,           name: timezonemap }
-- { setname: libtool,                  name: [libtool-base,libtool-fortran,libtool-info], addflavor: true }
+- { setname: libtool,                  name: [libtool-base,libtool-fortran,libtool-info, libltdl, libtool-ltdl], addflavor: true }
 - { setname: libtool,                  namepat: "libtool[0-9.-]+" }
 - { setname: libtorrent,               name: [libtorrent-ipv6,libtorrent-extended], addflavor: true }
 - { setname: libtorrent,               namepat: "libtorrent[0-9.-]+" }
