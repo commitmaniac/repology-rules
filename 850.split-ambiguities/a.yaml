@@ -466,6 +466,9 @@
 
 - { name: authenticator, setname: gnome-authenticator, wwwpart: [gnome,bilelmoussaoui] }
 
+- { name: avdl, wwwpart: jonhoo, setname: $0-avro-idl }
+- { name: avdl, addflag: unclassified }
+
 - { name: aviator, wwwpart: gianni-rosato, setname: aviator-video-encoding-gui }
 - { name: aviator, wwwpart: herrjulz, setname: aviator-yaml-merger }
 - { name: aviator, wwwpart: killme2008, setname: aviatorscript }
