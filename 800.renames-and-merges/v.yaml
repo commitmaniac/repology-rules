@@ -9,8 +9,8 @@
 - { setname: v8,                       namepat: "(?:lib)?v8(?:-[0-9.-]+)?" }
 - { setname: vala,                     namepat: "vala[0-9.-]+" }
 - { setname: vala,                     name: vala-compat }
-- { setname: vala,                     name: vala-common, addflavor: common }
-- { setname: vala,                     name: valac }
+- { setname: vala,                     name: [valac, valadoc, vala-common, vala-bootstrap], addflavor: true }
+- { setname: vala,                     name: vala-nightly, weak_devel: true, nolegacy: true }
 - { setname: vala-lint,                name: vala-lint-nightly, weak_devel: true, nolegacy: true }
 - { setname: valgrind,                 name: valgrind312 }
 - { setname: valgrind,                 name: valgrind-devel, weak_devel: true, nolegacy: true }
