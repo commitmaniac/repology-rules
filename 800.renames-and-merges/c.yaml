@@ -372,6 +372,7 @@
 - { setname: coxeter,                  name: coxeter3 }
 - { setname: cozy-audiobooks,          name: com.github.geigi.cozy }
 - { setname: cpc2,                     name: python:$0-standalone }
+- { setname: cpcm-x,                   name: cpcmx }
 - { setname: cpio,                     name: [gcpio, cpio-gnu] }
 - { setname: cpmtools,                 name: cpmtools2 }
 - { setname: cpp-hocon,                name: libcpp-hocon }
@@ -386,6 +387,7 @@
 - { setname: cpu-features,             name: [cpufeatures, google-cpu-features] }
 - { setname: cpu-features,             name: libcpufeatures, addflavor: lib }
 - { setname: cpu-z,                    name: cpuz }
+- { setname: cpx,                      name: [cpx-copy, rust:cpx] }
 - { setname: cq-editor,                name: python:$0 }
 - { setname: cqrlog,                   name: [cqrlog-gtk2,cqrlog-qt4,cqrlog-source], addflavor: true }
 - { setname: cracklib,                 name: cracklib2 }

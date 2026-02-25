@@ -491,6 +491,11 @@
 - { name: cpustat, wwwpart: ColinIanKing, setname: cpustat-colinianking }
 - { name: cpustat, addflag: unclassified }
 
+- { name: cpx, wwwpart: 11happy, setname: cpx-copy }
+- { name: cpx, wwwpart: ozacod, setname: cpx-cargo-for-c++ }
+- { name: cpx, wwwpart: cpcm-x, setname: cpcm-x }
+- { name: cpx, addflag: unclassified }
+
 - { name: cr, wwwpart: cfungos, setname: cr.h }
 - { name: cr, wwwpart: chart-releaser, setname: chart-releaser }
 - { name: cr, wwwpart: crengine, setname: coolreader }
