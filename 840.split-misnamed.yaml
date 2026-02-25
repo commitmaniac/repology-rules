@@ -67,6 +67,7 @@
 - { addflag: misnamed, name: python:alpm } # python-alpm, pyalpm
 - { addflag: misnamed, name: python:appstream } # either py-appstream, python-appstream, or appstream-python
 - { addflag: misnamed, name: python:argocomplete }
+- { addflag: misnamed, name: python:asn1, wwwpart: pyasn1 }
 - { addflag: misnamed, name: python:asn1-modules } # pyasn1-modules
 - { addflag: misnamed, name: python:asyncore } # pyasyncore
 - { addflag: misnamed, name: python:asynctools, wwwpart: pypi.org/project/python-asynctools }
