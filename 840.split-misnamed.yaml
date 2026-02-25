@@ -91,6 +91,7 @@
 - { addflag: misnamed, name: python:circe } # either python-circe or circe-py
 - { addflag: misnamed, name: python:cjson }
 - { addflag: misnamed, name: python:cloudkittyclient } # python-cloudkittyclient
+- { addflag: misnamed, name: python:cmake, ruleset: ravenports }
 - { addflag: misnamed, name: python:cryptodome } # pycryptodome
 - { addflag: misnamed, name: python:cryptodomex } # pycryptodomex
 - { addflag: misnamed, name: python:ctags } # python-ctags or python-ctags3
