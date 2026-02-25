@@ -24,7 +24,6 @@
 - { setname: ydiff,                    name: [cdiff, python:cdiff], outdated: true } # renamed
 - { setname: ydiff,                    name: python:$0 }
 - { setname: yggdrasil-go,             name: yggdrasil }
-- { setname: ykclient,                 name: libykclient }
 - { setname: ykush,                    name: [ykushcmd,ykush-control] }
 - { setname: yofrankie,                name: yo-frankie }
 - { setname: yofrankie,                name: yofrankie-bge }
@@ -45,6 +44,7 @@
 - { setname: ytnef,                    name: libytnef } # see https://github.com/Yeraze/ytnef/blob/master/ChangeLog
 - { setname: ytop,                     name: "rust:ytop" }
 - { setname: ytt,                      name: carvel-$0 }
+- { setname: yubico-c-client,          name: [ykclient, libykclient] }
 - { setname: yubico-piv-tool,          name: ykpivmgr }
 - { setname: yubikey-manager,          name: [ykman, python:yubikey-manager, yubikey-manager4] }
 - { setname: yubikey-manager-qt,       name: ykman-gui }
