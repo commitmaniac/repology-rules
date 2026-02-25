@@ -4,24 +4,26 @@
 - { setname: gcc, namepat: "gcc[0-9.-]+-devel", weak_devel: true, nolegacy: true }
 - { setname: gcc, namepat: "gcc[0-9.-]*(-libs|-testresults|-alternative|-doc)", addflavor: $1 }
 - { setname: gcc, name: legacy-gcc }
-- { setname: gcc, name: libiberty, addflavor: libiberty }
 
 - setname: gcc
   namepat: |
     (?:cross-?)?(
     aarch64|
     amd64|
+    amdgcn|
     arm|
     armv6|
     armv7|
     armv7l|
     avr|
+    bpf|
     epiphany|
     h8300|
     hppa|
     i386|
     i586|
     i686|
+    loongarch64|
     m68k|
     mips64|
     mipsel|
@@ -59,6 +61,8 @@
 - setname: gcc
   name:
     - g++
+    - gcc-base
+    - gcc-bootstrap
     - gcc-epel  # "missing bits that Red Hat removed from the gcc package for RHEL 8 and derivatives"
     - gcc-fortran
     - gcc-g++
@@ -80,9 +84,20 @@
     - gcc48-libs
     - gcc49-libs
     - gcc5-libs
+    - gccgo
+    - gdc
+    - gdc-static
     - gfortran
     - gnatcross
+    - libatomic
+    - libatomic-static
+    - libgccjit
     - libgfortran
+    - libiberty
+    - libquadmath
+    - libsanitizer
+    - libssp
+    - libstdc++
     - libstdcplusplus
   addflavor: true
 
