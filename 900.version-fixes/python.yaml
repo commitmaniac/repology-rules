@@ -51,7 +51,6 @@
 - { name: "python:elib.intl",          verpat: ".*20[0-9]{6}",                             snapshot: true }
 - { name: "python:elixir",             ver: "0.8.0",                 ruleset: sisyphus,    incorrect: true } # fake
 - { name: "python:elixir",                                           ruleset: sisyphus,    untrusted: true } # accused of fake 0.8.0
-- { name: "python:enchant",                                                                outdated: true } # pyenchant, not enchant
 - { name: "python:enzyme",             ver: "0.4.2",                 ruleset: sisyphus,    incorrect: true }
 - { name: "python:enzyme",                                           ruleset: sisyphus,    untrusted: true } # accused of fake 0.4.2
 - { name: "python:falcon",             verpat: ".*~\\^.*",                                 incorrect: true } # fedora garbage

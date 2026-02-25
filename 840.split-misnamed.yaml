@@ -112,6 +112,7 @@
 - { addflag: misnamed, name: python:edgegrid } # edgegrid-python
 - { addflag: misnamed, name: python:efl }
 - { addflag: misnamed, name: python:elftools } # pyelftools
+- { addflag: misnamed, name: python:enchant, noruleset: pypi } # all packages are in fact pyenchant
 - { addflag: misnamed, name: python:engineio }
 - { addflag: misnamed, name: python:epsg } # pyepsg or python-epsg
 - { addflag: misnamed, name: python:erfa } # pyerfa
