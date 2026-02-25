@@ -35,6 +35,23 @@
 - { addflag: misnamed, name: opencl-icd } # opencl-icd-loader or ocl-icd
 - { addflag: misnamed, name: opencl-icd-loader, wwwpart: ocl-dev }
 - { addflag: misnamed, name: perl:dbd-postgresql } # is named DBD-Pg
+- { addflag: misnamed, name: perl:find-which }
+- { addflag: misnamed, name: perl:forkmanager }
+- { addflag: misnamed, name: perl:html-formater }
+- { addflag: misnamed, name: perl:io-gzip } # perlio-gzip
+- { addflag: misnamed, name: perl:io-scalar }
+- { addflag: misnamed, name: perl:io-utf8-strict } # perlio-utf8-strict
+- { addflag: misnamed, name: perl:libjson } # json
+- { addflag: misnamed, name: perl:libtime-parsedate }
+- { addflag: misnamed, name: perl:minimumversion } # perl-minimumversion
+- { addflag: misnamed, name: perl:ole-storagelite } # ole-storage-lite
+- { addflag: misnamed, name: perl:parse-registry } # parse-win32registry
+- { addflag: misnamed, name: perl:readline-perl } # term-readline-perl
+- { addflag: misnamed, name: perl:should-update } # file-shouldupdate
+- { addflag: misnamed, name: perl:smtp-ssl } # net-smtp-ssl
+- { addflag: misnamed, name: perl:term-read-password } # term-readpassword
+- { addflag: misnamed, name: perl:unicode }
+- { addflag: misnamed, name: perl:xml-namespace-support }
 - { addflag: misnamed, name: pfetch,         wwwpart: pfetch-rs }
 - { addflag: misnamed, name: pkg-config,     wwwpart: files.pythonhosted.org }
 - { addflag: misnamed, name: procinfo,       wwwpart: procinfo-ng }
