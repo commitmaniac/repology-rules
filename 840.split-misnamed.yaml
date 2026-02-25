@@ -106,6 +106,7 @@
 - { addflag: misnamed, name: python:dkim } # dkimpy
 - { addflag: misnamed, name: python:docs-theme }
 - { addflag: misnamed, name: python:doi }
+- { addflag: misnamed, name: python:dotenv, wwwpart: python-dotenv }
 - { addflag: misnamed, name: python:dracclient } # python-dracclient
 - { addflag: misnamed, name: python:ecore } # python-ecore, pyecore
 - { addflag: misnamed, name: python:edgegrid } # edgegrid-python
