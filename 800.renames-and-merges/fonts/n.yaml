@@ -503,6 +503,7 @@
     - google-noto-sans-cjk-fonts
     - google-noto-sans-cjk-subset-fonts
     - google-noto-sans-cjk-vf-fonts
+    - noto-cjk-sans
     - noto-fonts-cjk-sans
     - noto-sans-cjk
     - noto-sans-hk
@@ -513,6 +514,7 @@
     - notosanscjktc
     - otf-noto-sans-cjk
     - otf-noto-sans-cjk-vf
+    - ttf-noto-sans-cjk-vf
 
 - setname: "fonts:noto-cjk-serif"
   name:
@@ -520,6 +522,7 @@
     - fonts-noto-serif-cjk
     - google-noto-serif-cjk-fonts
     - google-noto-serif-cjk-vf-fonts
+    - noto-cjk-serif
     - noto-fonts-cjk-serif
     - noto-serif-cjk
     - noto-serif-hk
@@ -529,6 +532,7 @@
     - noto-serif-tc
     - otf-noto-serif-cjk
     - otf-noto-serif-cjk-vf
+    - ttf-noto-serif-cjk-vf
 
 - setname: "fonts:noto-emoji"
   name:
