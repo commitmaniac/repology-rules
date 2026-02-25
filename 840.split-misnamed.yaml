@@ -105,6 +105,7 @@
 - { addflag: misnamed, name: python:digitalocean }
 - { addflag: misnamed, name: python:dkim } # dkimpy
 - { addflag: misnamed, name: python:docs-theme }
+- { addflag: misnamed, name: python:docx, wwwpart: python-docx } # TODO: remove similar 900 rule
 - { addflag: misnamed, name: python:doi }
 - { addflag: misnamed, name: python:dotenv, wwwpart: python-dotenv }
 - { addflag: misnamed, name: python:dracclient } # python-dracclient
