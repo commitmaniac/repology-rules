@@ -258,6 +258,7 @@
 - { setname: polkit-qt-1,              name: polkit-qt }
 - { setname: polkit-qt-1,              name: [polkit-qt4,polkit-qt-1-qt4], addflavor: qt4 }
 - { setname: polkit-qt-1,              name: [polkit-qt5,polkit-qt-1-qt5,polkit-qt5-1], addflavor: qt5 }
+- { setname: polkit-qt-1,              name: [polkit-qt6,polkit-qt-1-qt6,polkit-qt6-1], addflavor: qt6 }
 - { setname: polyclipping,             name: clipperlib }
 - { setname: polyclipping,             name: libpolyclipping }
 - { setname: polygen,                  name: polygen-data }
