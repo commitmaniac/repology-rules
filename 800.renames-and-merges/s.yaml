@@ -330,6 +330,7 @@
 - { setname: sphinx,                   name: sphinxsearch }
 - { setname: sphinx,                   name: libsphinxclient, addflavor: true }
 - { setname: sphinx,                   name: sphinx-beta, weak_devel: true, nolegacy: true }
+- { setname: spice,                    name: [spice-server, libspirce-server], addflavor: true }
 - { setname: spice-gtk,                namepat: "(?:lib)?spice-gtk[0-9.-]*" }
 - { setname: spidermonkey,             namepat: "spidermonkey[0-9.-]+" }
 - { setname: spidermonkey,             namepat: "mozjs[0-9.-]*" }
