@@ -200,7 +200,7 @@
 - { name: dnsproxy, wwwpart: adguard, setname: dnsproxy-adguard }
 - { name: dnsproxy, addflag: unclassified }
 
-- { name: doas, wwwpart: slicer69, addflag: classified }
+- { name: doas, wwwpart: thejessesmith, addflag: classified }
 - { name: doas, wwwpart: duncaen, setname: opendoas }
 - { name: doas, addflag: unclassified }
 
