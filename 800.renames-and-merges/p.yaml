@@ -221,6 +221,7 @@
 - { setname: pleaser,                  name: "rust:pleaser" }
 - { setname: pleaserun,                name: "ruby:pleaserun" }
 - { setname: plex-media-server,        name: plexmediaserver }
+- { setname: plex-media-server,        name: [plex-media-server-plexpass, plexmediaserver-plexpass], addflavor: plexpass }
 - { setname: plink,                    name: [plink1.9, plink-ng, plink2] }
 - { setname: plpgsql-check,            namepat: "(postgresql[0-9.-]*)-plpgsql-check", addflavor: $1 }
 - { setname: plr,                      namepat: "(postgresql[0-9.-]*)-plr", addflavor: $1 }
