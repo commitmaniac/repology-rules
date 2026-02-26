@@ -256,7 +256,7 @@
 - { setname: libpano13,                name: libpano }
 - { setname: libpaper,                 name: libpaper1 }
 - { setname: libpcap,                  name: libpcap-1.4 }
-- { setname: libpeas,                  name: [$0-loader-python3, $0-lua51, $0-luajit, python:$0, python-libpeas1], addflavor: true }
+- { setname: libpeas,                  name: [$0-loader-python3, $0-lua51, $0-luajit, python:$0, python:libpeas1], addflavor: true }
 - { setname: libpeas,                  namepat: "libpeas[0-9.-]+" }
 - { setname: libperseus-sdr,           name: perseus-sdr }
 - { setname: libphutil,                name: ["php:libphutil", libphutil-stable] }
