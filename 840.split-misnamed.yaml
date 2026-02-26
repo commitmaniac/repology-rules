@@ -109,6 +109,7 @@
 - { addflag: misnamed, name: python:docx, noruleset: pypi, wwwpart: python-docx, vulnerable: true }
 - { addflag: misnamed, name: python:doi }
 - { addflag: misnamed, name: python:dotenv, wwwpart: python-dotenv }
+- { addflag: misnamed, name: python:dotenv, ruleset: pld }
 - { addflag: misnamed, name: python:dracclient } # python-dracclient
 - { addflag: misnamed, name: python:ecore } # python-ecore, pyecore
 - { addflag: misnamed, name: python:edgegrid } # edgegrid-python
