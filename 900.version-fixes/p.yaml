@@ -219,6 +219,7 @@
 - { name: plata-theme,                 verpat: ".*\\.[89][0-9]",                           devel: true }
 - { name: pldebugger,                  verge: "9",                                         sink: true } # https://git.postgresql.org/gitweb/?p=pldebugger.git;a=tag;h=264450daaf89455f92ebcd7d4ff2e8a0a9a19209
 - { name: pleroma,                     wwwpart: akkoma,                                    incorrect: true } # fork
+- { name: plex-media-server,           verpat: "[0-9]+(\\.[0-9]+){3}.[0-9a-f]{9}",         altver: true } # upstream adds commit hash to the version
 - { name: plexus-active-collections,   ver: "1.0",                   ruleset: sisyphus,    incorrect: true }
 - { name: plexus-active-collections,                                 ruleset: sisyphus,    untrusted: true } # accused of fake 1.0
 - { name: plexus-component-api,        ver: "1.0",                   ruleset: sisyphus,    incorrect: true }
